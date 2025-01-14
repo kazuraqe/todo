@@ -1,2 +1,2 @@
 # todo
-React, TypeScript, TailWaind
+React, TypeScript, TailWind
